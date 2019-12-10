@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/sintesis/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/sintesis/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,5,4,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,198,149,246",
+                        "endColumns": "52,40,47,48,50",
+                        "endOffsets": "103,144,241,193,292"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,149,197,246",
+                        "endColumns": "52,40,47,48,50",
+                        "endOffsets": "103,144,192,241,292"
+                    }
+                }
+            ]
+        }
+    ]
+}
