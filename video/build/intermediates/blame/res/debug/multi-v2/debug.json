@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/video/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/video/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "118,56",
+                        "endColumns": "42,61",
+                        "endOffsets": "156,113"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,98",
+                        "endColumns": "42,61",
+                        "endOffsets": "93,155"
+                    }
+                }
+            ]
+        }
+    ]
+}
