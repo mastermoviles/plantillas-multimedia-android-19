@@ -1,0 +1,34 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="es.ua.eps.habla"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <application
+7-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:5:5-14:19
+8        android:debuggable="true"
+9        android:icon="@drawable/icon"
+9-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:5:18-47
+10        android:label="@string/app_name"
+10-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:5:48-80
+11        android:testOnly="true" >
+12        <activity
+12-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:6:9-12:20
+13            android:name="es.ua.jtech.habla.ActividadHabla"
+13-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:6:19-66
+14            android:label="@string/app_name" >
+14-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:7:19-51
+15            <intent-filter>
+15-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:8:13-11:29
+16                <action android:name="android.intent.action.MAIN" />
+16-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:9:17-69
+16-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:9:25-66
+17
+18                <category android:name="android.intent.category.LAUNCHER" />
+18-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:10:17-77
+18-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/habla/src/main/AndroidManifest.xml:10:27-74
+19            </intent-filter>
+20        </activity>
+21    </application>
+22
+23</manifest>
