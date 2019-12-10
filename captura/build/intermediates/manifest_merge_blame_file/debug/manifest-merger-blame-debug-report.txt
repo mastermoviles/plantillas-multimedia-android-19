@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="es.ua.eps.video"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:targetSdkVersion="26" />
+7-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:9:5-64
+9-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:9:22-62
+10    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+10-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:10:5-70
+10-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:10:22-68
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:11:5-80
+11-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:11:22-78
+12
+13    <application
+13-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:13:5-25:19
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_launcher"
+15-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:14:9-45
+16        android:label="@string/app_name"
+16-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:15:9-41
+17        android:testOnly="true" >
+18        <activity
+18-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:16:9-24:20
+19            android:name="es.ua.jtech.android.video.VideoActivity"
+19-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:17:13-42
+20            android:label="@string/app_name" >
+20-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:18:13-45
+21            <intent-filter>
+21-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:19:13-23:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:20:17-69
+22-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:20:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:22:17-77
+24-->/Users/mastermoviles/Proyectos/Android/trabajo/plantillas-multimedia-android-16/captura/src/main/AndroidManifest.xml:22:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>
