@@ -16,7 +16,7 @@
         android:label="@string/app_name"
         android:testOnly="true" >
         <activity
-            android:name="es.ua.jtech.android.video.VideoActivity"
+            android:name="es.ua.eps.video.VideoActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
